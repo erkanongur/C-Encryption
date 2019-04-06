@@ -1,4 +1,4 @@
-# C-Encryption
+# CSharp-Encryption
 C# Form Encryption Application
 
 **Bu uygulamada girdiyi**<br/>
