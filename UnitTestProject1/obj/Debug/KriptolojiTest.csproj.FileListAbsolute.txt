@@ -1,0 +1,8 @@
+C:\ERKAN\KTU\PROJECTS\bilgiguvenligi\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\ERKAN\KTU\PROJECTS\bilgiguvenligi\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\ERKAN\KTU\PROJECTS\bilgiguvenligi\UnitTestProject1\bin\Debug\bilgiguvenligi.exe
+C:\ERKAN\KTU\PROJECTS\bilgiguvenligi\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\ERKAN\KTU\PROJECTS\bilgiguvenligi\UnitTestProject1\bin\Debug\bilgiguvenligi.pdb
+C:\ERKAN\KTU\PROJECTS\bilgiguvenligi\UnitTestProject1\obj\Debug\KriptolojiTest.csprojResolveAssemblyReference.cache
+C:\ERKAN\KTU\PROJECTS\bilgiguvenligi\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\ERKAN\KTU\PROJECTS\bilgiguvenligi\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

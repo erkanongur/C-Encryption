@@ -34,3 +34,12 @@ C:\ERKAN\KTU\bilgiguvenligi\bilgiguvenligi\obj\Debug\bilgiguvenligi.csprojResolv
 C:\ERKAN\KTU\bilgiguvenligi\bilgiguvenligi\obj\Debug\bilgiguvenligi.Form1.resources
 C:\ERKAN\KTU\bilgiguvenligi\bilgiguvenligi\obj\Debug\bilgiguvenligi.Properties.Resources.resources
 C:\ERKAN\KTU\bilgiguvenligi\bilgiguvenligi\obj\Debug\bilgiguvenligi.csproj.GenerateResource.Cache
+C:\ERKAN\KTU\PROJECTS\bilgiguvenligi\bilgiguvenligi\bin\Debug\bilgiguvenligi.exe.config
+C:\ERKAN\KTU\PROJECTS\bilgiguvenligi\bilgiguvenligi\obj\Debug\bilgiguvenligi.exe
+C:\ERKAN\KTU\PROJECTS\bilgiguvenligi\bilgiguvenligi\obj\Debug\bilgiguvenligi.pdb
+C:\ERKAN\KTU\PROJECTS\bilgiguvenligi\bilgiguvenligi\obj\Debug\bilgiguvenligi.csprojResolveAssemblyReference.cache
+C:\ERKAN\KTU\PROJECTS\bilgiguvenligi\bilgiguvenligi\obj\Debug\bilgiguvenligi.Form1.resources
+C:\ERKAN\KTU\PROJECTS\bilgiguvenligi\bilgiguvenligi\obj\Debug\bilgiguvenligi.Properties.Resources.resources
+C:\ERKAN\KTU\PROJECTS\bilgiguvenligi\bilgiguvenligi\obj\Debug\bilgiguvenligi.csproj.GenerateResource.Cache
+C:\ERKAN\KTU\PROJECTS\bilgiguvenligi\bilgiguvenligi\bin\Debug\bilgiguvenligi.exe
+C:\ERKAN\KTU\PROJECTS\bilgiguvenligi\bilgiguvenligi\bin\Debug\bilgiguvenligi.pdb

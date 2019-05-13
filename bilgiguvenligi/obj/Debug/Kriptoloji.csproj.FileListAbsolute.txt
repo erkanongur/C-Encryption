@@ -1,0 +1,3 @@
+C:\ERKAN\KTU\PROJECTS\bilgiguvenligi\bilgiguvenligi\bin\Debug\bilgiguvenligi.exe.config
+C:\ERKAN\KTU\PROJECTS\bilgiguvenligi\bilgiguvenligi\obj\Debug\bilgiguvenligi.exe
+C:\ERKAN\KTU\PROJECTS\bilgiguvenligi\bilgiguvenligi\obj\Debug\bilgiguvenligi.pdb
